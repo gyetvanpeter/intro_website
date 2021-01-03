@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border: none;
+  border-top: dotted 10px;
+  width: 5%;
+  border-color: #EAF6F6;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+}
+
+.keepy-ups-img {
+  width: 25%;
+  background-color: #66BFBF;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.baking-img {
+  width: 25%;
+  background-color: #66BFBF;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.intro-text {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  color: #40514E;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.BUTTON_KOA {
+  margin: 50px auto 50px auto;
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -o-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 5px;
+   height: 30px;
+   line-height: 35px;
+   color: #EAF6F6;
+   font-family: 'Montserrat', sans-serif;
+   width: 180px;
+   font-size: 20px;
+   font-weight: 400;
+   padding: 5px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: none;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.8rem;
+}
+
+.footer-link {
+  margin: 0 15px 0 15px;
+}
+
+
+
+#profile-img {
+  width: 80%;
+  border-radius: 100%;
+  margin: 50px auto 50px auto;
+}
